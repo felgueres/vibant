@@ -1,4 +1,4 @@
-### Projet Vibant 
+### Project Vibant 
 
 Blender is a ridicously powerful, awesome and open source 3D modeling software.
 Dipping my toes to build scifi renderings.
