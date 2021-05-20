@@ -1,7 +1,10 @@
 ### Project Vibant 
 
-Blender is a ridicously powerful, awesome and open source 3D modeling software.
-Dipping my toes to build scifi renderings.
+[Blender](blender.org) is an awesome, open source 3D modeling software.
+
+This is me getting 3D skills and imagining the future.
+
+---
 
 Motivation: Stimulate scientific advances by imaginig the future.
 
@@ -31,11 +34,13 @@ Inspiration:
 
 ![coffee grinder](https://onlyonceshop.com/content/2-store/71-braun-hl-70/braun-dieter-rams-design-vintage-retro-coffee-grinder-only-once-shop-braun_kf-20_frei_1.png)
 
-Definitions
+---
+
+### 3D definitions
 mesh: object made of polygons (people model with meshes not surfaces)
 surfaces: math representation of a shape 
 
-### Blender basics 
+### Blender basic commands 
 - Switch between vertices, edges and faces: 1,2,3
 - padding: shift + middle mouse
 - edit mode: tab (see polygons)
